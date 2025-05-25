@@ -1,0 +1,16 @@
+Custom License – Personal Use Only
+
+Copyright (c) 2025 BeeBuup
+
+Permission is granted to download and use this software for personal, non-commercial purposes only.
+
+You may NOT:
+- Redistribute or share its source code
+- Modify or alter any part of the software
+- Use this software for commercial purposes (e.g., selling, monetization, services)
+- Use any part of the codebase to create your own derivative or similar software
+- Claim ownership or authorship of any part of this project
+
+All other rights are reserved by the author.
+
+This software is provided "as is", without warranty of any kind.
