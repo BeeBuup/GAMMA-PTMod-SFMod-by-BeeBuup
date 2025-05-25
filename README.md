@@ -38,6 +38,6 @@ For **more questions** or "***business***" here my **discord**: **beebuup**
 ------------
 
 
-**Update:** 02, june
+**UI Update:** 02, june
 ##### **SFMod:** 01, july
 
