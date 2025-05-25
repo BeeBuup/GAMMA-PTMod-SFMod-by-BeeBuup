@@ -13,4 +13,6 @@ You may NOT:
 
 All other rights are reserved by the author.
 
+For any form of usage beyond personal use — including inquiries about distribution, modification, integration, or collaboration — you must contact the author first.
+
 This software is provided "as is", without warranty of any kind.
