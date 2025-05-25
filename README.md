@@ -26,3 +26,6 @@ I hope for support, because it will also take a lot of time, it would be nice to
 
 My goal-
 My goal is to make Stalker GAMMA a bit multiplayer...at least with LBMod and SFMod to bring the community a bit more together and have more fun!
+
+
+For more questions or business here my discord: beebuup
