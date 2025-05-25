@@ -22,7 +22,7 @@ There will be more programs like **SFMod** where your score will be saved somewh
 ------------
 
 
-####**BIG Projekt~**
+#### **BIG Projekt~**
 In the end there might be another project called **GAMMA LBMod**, which will have its **own website** where you can **compete with other players** for a **ranking**, where you can see their **profile and their equipment.**
 
 I hope for support, because it will also take a lot of time, it would be nice to get financial support to speed up the process, so I can work more on the projects.
@@ -30,7 +30,7 @@ I hope for support, because it will also take a lot of time, it would be nice to
 ------------
 
 
-####**My goal~**
+#### **My goal~**
 My goal is to make Stalker GAMMA a bit **multiplayer**...at least with **LBMod** and **SFMod** to bring the community a bit more together and have more fun!
 
 For **more questions** or "***business***" here my **discord**: **beebuup**
