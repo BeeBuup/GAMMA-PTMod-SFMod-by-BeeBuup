@@ -10,8 +10,6 @@
 
 4.start the game and have fun
 
-5.select u Anomaly folder where the save files are
-
 6.if u want to close it press strg/ctrl + c to save
 
 
