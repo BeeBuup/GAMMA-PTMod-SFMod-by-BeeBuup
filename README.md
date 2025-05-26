@@ -1,5 +1,5 @@
 🕹️ PTMod – PlayTime Tracker & SFMod – SaveFile Backup ; for STALKER G.A.M.M.A
-
+###**DOWNLOAD ONLY .ZIP**
 1.open it in a folder
 
 2.select u Anomaly folder where the save files are for backups
