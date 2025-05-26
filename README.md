@@ -1,4 +1,18 @@
 🕹️ PTMod – PlayTime Tracker & SFMod – SaveFile Backup ; for STALKER G.A.M.M.A
+
+1.open it in a folder
+
+2.select u Anomaly folder where the save files are
+
+3.open the .exe
+
+4.start the game and have fun
+
+5.select u Anomaly folder where the save files are
+
+6.if u want to close it press strg/ctrl + c to save
+
+
 ![image](https://github.com/user-attachments/assets/e07c86af-5b00-4691-a7a8-8ab8e9b71ca4)
 ![image](https://github.com/user-attachments/assets/844b0f32-917b-4f53-ace3-79549302e2a6)
 ![image](https://github.com/user-attachments/assets/17e07119-e8f3-4fa5-9a28-b2d33bcb5dc7)
