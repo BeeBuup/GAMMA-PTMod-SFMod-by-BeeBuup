@@ -2,7 +2,7 @@
 
 1.open it in a folder
 
-2.select u Anomaly folder where the save files are
+2.select u Anomaly folder where the save files are for backups
 
 3.open the .exe
 
